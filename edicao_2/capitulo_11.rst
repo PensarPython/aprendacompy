@@ -291,7 +291,7 @@ Cada vez que invocamos ``load``, obtemos um único valor do arquivo, completo co
 11.5 Exceções
 ----------------
 
-Whenever que um erro em tempo de execução acontece, ele gera uma exceção. Usualmente, o programa pára e Python exibe uma mensagem de erro.
+Sempre que um erro em tempo de execução acontece, ele gera uma exceção. Usualmente, o programa pára e Python exibe uma mensagem de erro.
 
 Por exemplo, dividir por zero gera uma exceção::
 
